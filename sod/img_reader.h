@@ -3,7 +3,7 @@
 
 #ifndef STBI_NO_STDIO
 #include <stdio.h>
-#endif // STBI_NO_STDIO
+
 
 #define STBI_VERSION 1
 
