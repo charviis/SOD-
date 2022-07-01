@@ -1,36 +1,4 @@
-﻿/*
-* SOD - An Embedded Computer Vision & Machine Learning Library.
-* Copyright (C) 2018 - 2020 PixLab| Symisc Systems. https://sod.pixlab.io
-* Version 1.1.8
-*
-* Symisc Systems employs a dual licensing model that offers customers
-* a choice of either our open source license (GPLv3) or a commercial
-* license.
-*
-* For information on licensing, redistribution of the SOD library, and for a DISCLAIMER OF ALL WARRANTIES
-* please visit:
-*     https://pixlab.io/sod
-* or contact:
-*     licensing@symisc.net
-*     support@pixlab.io
-*/
-/*
-* This file is part of Symisc SOD - Open Source Release (GPLv3)
-*
-* SOD is free software : you can redistribute it and/or modify
-* it under the terms of the GNU General Public License as published by
-* the Free Software Foundation, either version 3 of the License, or
-* (at your option) any later version.
-*
-* SOD is distributed in the hope that it will be useful,
-* but WITHOUT ANY WARRANTY; without even the implied warranty of
-* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.See the
-* GNU General Public License for more details.
-*
-* You should have received a copy of the GNU General Public License
-* along with SOD. If not, see <http://www.gnu.org/licenses/>.
-*/
-/* $SymiscID: sod.c v1.1.8 Win10 2019-11-16 03:23 stable <devel@symisc.net> $ */
+/* $SymiscID: sod.c v1.1.8 Win10 2019-11-16 03:23 stable <devel@symisc.net> $ */.
 #ifdef _MSC_VER
 #ifndef _CRT_SECURE_NO_WARNINGS
 /*
